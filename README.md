@@ -4,6 +4,8 @@ If you want to improve on what [CodeIgniter 4 Media Library](https://github.com/
 
 ## Installation
 
+First of all, you need to create database and
+
 1. Clone this repo
 2. `cd` into the repo
 3. Run `cp env .env`
